@@ -23,3 +23,5 @@ Sure, here are the steps to make a compass app in React Native:
 9. **Rotate the Compass UI:** Use the `Animated` module from React Native to rotate the compass UI elements based on the current compass heading.
 
 10. **Run the App:** Run the React Native app on your device or emulator. The compass app should display the current compass heading and rotate accordingly.
+
+# Code:
