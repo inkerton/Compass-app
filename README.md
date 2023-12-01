@@ -1,5 +1,5 @@
 # Compass-app
-A compass app in React-native. all done
+A compass app in React-native.
 
 # steps:
 Sure, here are the steps to make a compass app in React Native:
